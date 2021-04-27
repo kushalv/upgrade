@@ -1,0 +1,9 @@
+com/example/upgrade/UpgradeApplication.class
+com/example/upgrade/controller/ReservationController.class
+com/example/upgrade/controller/AvailabilityController.class
+com/example/upgrade/entity/Reservation.class
+com/example/upgrade/service/ReservationService.class
+com/example/upgrade/exception/ResourceNotFoundException.class
+com/example/upgrade/entity/Status.class
+com/example/upgrade/repository/ReservationRepository.class
+com/example/upgrade/exception/BadRequestException.class
